@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/resources/my.properties" line="11" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="497ad4e6-6eac-4c17-8dec-26e8fa5a3dc8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/Top10Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/Top10Session.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16983">
+              <caret line="650" column="59" selection-start-line="650" selection-start-column="59" selection-end-line="650" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/DAOFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/AreaTop3Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/AreaTop3ProductSpark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10530">
+              <caret line="419" column="44" lean-forward="true" selection-start-line="419" selection-start-column="44" selection-end-line="419" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/page/PageOneStepConvertRateSpark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="326" column="23" selection-start-line="326" selection-start-column="23" selection-end-line="326" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spark_project.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40014">
+              <caret line="1482" selection-start-line="1482" selection-end-line="1491" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/IAreaTop3ProductDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/AreaTop3ProductDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filteredSessionid2AggrInfoRDD</find>
+      <find>sessionid2AggrInfoRDD</find>
+      <find>parameter</find>
+      <find>partAggrInfo</find>
+      <find>userid2FullInfoRDD</find>
+      <find>userid2PartAggrInfoRDD</find>
+      <find>filterSessionAndAggrStat</find>
+      <find>getSessionid2detailRDD</find>
+      <find>sessionCount</find>
+      <find>extractNumberPerDay</find>
+      <find>extractIndexList</find>
+      <find>time2sessionidRDD</find>
+      <find>time2sessionsRDD</find>
+      <find>extractSessionidsRDD</find>
+      <find>randomExtractSession</find>
+      <find>sessionid2actionRDD</find>
+      <find>session_count</find>
+      <find>calculateAndPersistAggrStat</find>
+      <find>categoryidRDD</find>
+      <find>tmpJoinRDD</find>
+      <find>getTop10Session</find>
+      <find>sessionid2detailRDD</find>
+      <find>top10CategoryIdList</find>
+      <find>top10CategoryIdRDD</find>
+      <find>sessionDetail</find>
+      <find>insert</find>
+      <find>sqlContext</find>
+      <find>targetPages</find>
+      <find>lastPageId</find>
+      <find>generateTempAreaFullProductClickCountTable</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/test/JdbcCRUD.java" />
+        <option value="F:/我的进阶之路/6.项目/1.基于某号店的电商实时数据分析系统/课件、代码、软件包/023.用户访问session分析-开发JDBC辅助组件（下）/代码/JDBCHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/RandomPrefixUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/session/CategorySortKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/test/ConfigurationManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spark/UserVisitSessionAnalyzeSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/SparkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/mock/MockData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/session/OpUserVisitSessionAnalyzeSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java" />
+        <option value="$PROJECT_DIR$/src/test/java/spark/UserVisitSessionAnalyzeSparkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/page/PageOneStepConvertRateSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/RemoveRandomPrefixUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/GroupConcatDistinctUDAF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/AreaTop3Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/jdbc/JDBCHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/AreaTop3ProductDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/mock/MockRealTimeData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/ad/AdClickRealTimeStatSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/my.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/DAOFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/AreaTop3ProductSpark.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spark-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spark-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="553" />
+    <option name="y" value="103" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sparkproject" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spark-project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spark-project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570801831582" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Iproject\sparkproject\src\main\java\com\lx\sparkproject\dao\impl" />
+      <recent name="E:\Iproject\sparkproject\src\main\java\com\lx\sparkproject\dao" />
+      <recent name="E:\Iproject\sparkproject\src\main\java\com\lx\sparkproject\domian" />
+      <recent name="E:\Iproject\sparkproject\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Iproject\sparkproject\src\main\resources" />
+      <recent name="E:\Iproject\sparkproject\src\test" />
+      <recent name="E:\Iproject\sparkproject\src\main\java\com\lx\sparkproject\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PageOneStepConvertRateSpark">
+    <configuration name="AreaTop3ProductSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.sparkproject.spark.product.AreaTop3ProductSpark" />
+      <module name="spark-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.sparkproject.spark.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageOneStepConvertRateSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.sparkproject.spark.page.PageOneStepConvertRateSpark" />
+      <module name="spark-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.sparkproject.spark.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserVisitSessionAnalyzeSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.sparkproject.spark.session.UserVisitSessionAnalyzeSpark" />
+      <module name="spark-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.sparkproject.spark.session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserVisitSessionAnalyzeSparkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spark.UserVisitSessionAnalyzeSparkTest" />
+      <module name="spark-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PageOneStepConvertRateSpark" />
+      <item itemvalue="Application.UserVisitSessionAnalyzeSparkTest" />
+      <item itemvalue="Application.AreaTop3ProductSpark" />
+      <item itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PageOneStepConvertRateSpark" />
+        <item itemvalue="Application.AreaTop3ProductSpark" />
+        <item itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+        <item itemvalue="Application.UserVisitSessionAnalyzeSparkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="497ad4e6-6eac-4c17-8dec-26e8fa5a3dc8" name="Default Changelist" comment="" />
+      <created>1562054606850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562054606850</updated>
+      <workItem from="1562054612094" duration="5384000" />
+      <workItem from="1565281780349" duration="186000" />
+      <workItem from="1565281973134" duration="151000" />
+      <workItem from="1565664829459" duration="454000" />
+      <workItem from="1565665835697" duration="293000" />
+      <workItem from="1566296165003" duration="11930000" />
+      <workItem from="1566319467606" duration="192000" />
+      <workItem from="1566447858137" duration="17000" />
+      <workItem from="1566537438573" duration="16000" />
+      <workItem from="1566542288813" duration="265000" />
+      <workItem from="1566542573061" duration="23000" />
+      <workItem from="1566542720224" duration="73000" />
+      <workItem from="1566543721016" duration="230000" />
+      <workItem from="1566544863790" duration="361000" />
+      <workItem from="1566569493616" duration="103000" />
+      <workItem from="1566569948903" duration="101000" />
+      <workItem from="1566570701332" duration="564000" />
+      <workItem from="1566645150210" duration="5132000" />
+      <workItem from="1566651966853" duration="3501000" />
+      <workItem from="1566661077892" duration="1948000" />
+      <workItem from="1566710174641" duration="1880000" />
+      <workItem from="1566712100215" duration="278000" />
+      <workItem from="1566715709479" duration="887000" />
+      <workItem from="1566811773614" duration="16000" />
+      <workItem from="1569994706593" duration="79000" />
+      <workItem from="1570440163048" duration="7051000" />
+      <workItem from="1570451117042" duration="607000" />
+      <workItem from="1570453903025" duration="120000" />
+      <workItem from="1570455059204" duration="21000" />
+      <workItem from="1570535406027" duration="5628000" />
+      <workItem from="1570541938063" duration="5022000" />
+      <workItem from="1570591321804" duration="146000" />
+      <workItem from="1570631428096" duration="5316000" />
+      <workItem from="1570672099673" duration="19000" />
+      <workItem from="1570675574081" duration="40429000" />
+      <workItem from="1570760631536" duration="22870000" />
+      <workItem from="1570793534261" duration="4649000" />
+      <workItem from="1570799890610" duration="626000" />
+      <workItem from="1570800519501" duration="1354000" />
+      <workItem from="1570843882177" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127930000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.032502707" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.58071506" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.015991472" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/jdk1.8.0_191/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22059">
+          <caret line="889" column="17" selection-start-line="889" selection-start-column="17" selection-end-line="889" selection-end-column="17" />
+          <folding>
+            <element signature="e#37718#37719#0" expanded="true" />
+            <element signature="e#37754#37755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/spark/UserVisitSessionAnalyzeSparkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="152" column="8" selection-start-line="152" selection-start-column="8" selection-end-line="152" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/repository/com/alibaba/fastjson/1.1.41/fastjson-1.1.41.jar!/com/alibaba/fastjson/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/GetJsonObjectUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/RandomPrefixUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/RemoveRandomPrefixUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/repository/org/apache/spark/spark-sql_2.10/1.5.1/spark-sql_2.10-1.5.1.jar!/org/apache/spark/sql/expressions/UserDefinedAggregateFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/ConcatLongStringUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/session/SessionAggrStatAccumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/mock/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="179" column="38" lean-forward="true" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/GroupConcatDistinctUDAF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#2717#2718#0" expanded="true" />
+            <element signature="e#2751#2752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/repository/org/apache/spark/spark-catalyst_2.10/1.5.1/spark-catalyst_2.10-1.5.1.jar!/org/apache/spark/sql/catalyst/trees/CurrentOrigin.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/AdProvinceTop3.java" />
+    <entry file="jar://D:/jdk1.8.0_191/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/SparkUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/mock/MockRealTimeData.java" />
+    <entry file="jar://D:/apache-maven-3.6.0/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar!/com/mysql/jdbc/PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_191/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="589" column="10" selection-start-line="589" selection-start-column="10" selection-end-line="589" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/jdbc/JDBCHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/AdStatDAOImpl.java" />
+    <entry file="jar://D:/jdk1.8.0_191/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1851">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/repository/org/apache/spark/spark-streaming-kafka_2.10/1.5.1/spark-streaming-kafka_2.10-1.5.1.jar!/org/apache/spark/streaming/kafka/KafkaUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/ad/AdClickRealTimeStatSpark.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/model/AdUserClickCountQueryResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/model/AdStatQueryResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/model/AdClickTrendQueryResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/util/ParamUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/conf/ConfigurationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/IPageSplitConvertRateDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/ISessionAggrStatDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/ISessionDetailDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/ISessionRandomExtractDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/ITaskDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/ITop10CategoryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/ITop10SessionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/PageSplitConvertRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/Top10Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/Top10Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16983">
+          <caret line="650" column="59" selection-start-line="650" selection-start-column="59" selection-end-line="650" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/domian/AreaTop3Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/product/AreaTop3ProductSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10530">
+          <caret line="419" column="44" lean-forward="true" selection-start-line="419" selection-start-column="44" selection-end-line="419" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spark_project.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40014">
+          <caret line="1482" selection-start-line="1482" selection-end-line="1491" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/IAreaTop3ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/dao/impl/AreaTop3ProductDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lx/sparkproject/spark/page/PageOneStepConvertRateSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="326" column="23" selection-start-line="326" selection-start-column="23" selection-end-line="326" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spark-project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
